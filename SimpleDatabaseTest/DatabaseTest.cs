@@ -1,6 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SimpleDatabase;
+using static SimpleDatabase.Program;
+using Moq;
 
 namespace SimpleDatabaseTest
 {
@@ -14,6 +16,11 @@ namespace SimpleDatabaseTest
             //testDB.Set("a", 20);
 
             //Assert. (20, testDB.Get("a"))
+            var writer = new Mock<IOutputWriter>();
+            var mock = new Mock<Database>(writer.Object, new object[] { "20", true });
+            mock.CallBase = true;
+            var db = mock.Object;
+            db.Set();
         }
     }
 }
