@@ -1,0 +1,6 @@
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\bin\Debug\SimpleDatabase.exe.config
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\bin\Debug\SimpleDatabase.exe
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\bin\Debug\SimpleDatabase.pdb
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.csprojResolveAssemblyReference.cache
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.exe
+c:\users\adcw33n\documents\visual studio 2015\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.pdb
